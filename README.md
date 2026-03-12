@@ -1,4 +1,5 @@
 # DADS7202-Homework
+example : https://github.com/lukplamino/DADS7202_HW02-CNN_MNLP_Group
 
 Pizza Classification
 
@@ -10,6 +11,7 @@ Based on pre-trained model, the highest average accuracy rate is 85.37% of 🏆X
 The best model after fine tuning pre-trained model is 🏆VGG16. The average accuracy on test data is at 91.66% rising from 84.63% (no tune)
 InceptionV3 and VGG16 show notable improvement on test accuracy at +8.71% and +7.04%, respectively, while ResNetV2 and Xception have less improvement at +2.59% and +2.22%, respectively
 Overall, the models have learned a distinctive of each banana type from banana fruit shape and shape of banana cut stalk
+
 Table of Contents
 1. Introduction🎯
 2. Data📑
